@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c383e9f4-4ba7-45d0-8d33-f24a06b74478" name="Default Changelist" comment="ttttttt 第一次测试提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testGitRepo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newTest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\MyWorkSpaces\remoteGit\testGitRepo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repostory" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27lsLG352SItNZdC6p6BsZZzNQ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pmt/pmt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c383e9f4-4ba7-45d0-8d33-f24a06b74478" name="Default Changelist" comment="" />
+      <created>1649905949029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649905949029</updated>
+      <workItem from="1649905953056" duration="7412000" />
+    </task>
+    <task id="LOCAL-00001" summary="remotegit 第一次测试提交">
+      <created>1649906553896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649906553896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ttttttt 第一次测试提交">
+      <created>1649916756740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649916756740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ttttttt 第er次测试提交">
+      <created>1649920029772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649920029772</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remotegit 第一次测试提交" />
+    <MESSAGE value="ttttttt 第一次测试提交" />
+    <MESSAGE value="ttttttt 第er次测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="ttttttt 第er次测试提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1649920028766">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1649920028766" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1649906552994" />
+    <state x="121" y="57" key="DiffContextDialog" timestamp="1649916773685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="57" key="DiffContextDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1649916773685" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1649914824478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1649914824478" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1649906991711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1649906991711" />
+    <state x="233" y="70" key="Vcs.Push.Dialog.v2" timestamp="1649920838836">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="70" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1649920838836" />
+    <state x="233" y="70" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1649906421887" />
+    <state x="340" y="114" key="git4idea.merge.GitPullDialog" timestamp="1649919184978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="114" key="git4idea.merge.GitPullDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1649919184978" />
+    <state x="340" y="114" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1649906701856" />
+  </component>
+</project>
